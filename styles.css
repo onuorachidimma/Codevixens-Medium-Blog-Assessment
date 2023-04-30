@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+    font-family:   
+}
+
+div{
+    margin: auto;
+    width: 80%;
+    max-width: 700px;
+    
+}
+ main{
+    justify-content: center;
+    align-items: center;
+ }
+
+
+a{
+    display: block;
+    text-align: left;
+}
+
+h2{
+    text-align: left;
+}
+
+p{
+    text-align: justify;
+}
+
+img{
+    width: 90%;  
+}
+
+
